@@ -16,6 +16,9 @@ https://app.jswap.finance/
 | JfBar | `0xe49cc2Ff620Bf43D0D3EadA59000BC79a3C0a553` |
 | JfMaker | `0xc01a46774090a1B4b7E64f550D4608dc691942EA` |
 | TimeLock | `0x8b4Bb9716E1D0FBe263f06EfeDeDbB858Fd4F78a` |
+| JfCheVault | `0x6CDa71169cE699a5ba231eb701C9C49C4b988a52` |
+| SingleMiningPoolV2 Proxy | `0x4e864E36Bb552BD1Bf7bcB71A25d8c96536Af7e3` |
+| SingleMiningPoolV2 Impl | `0xF31E8D18c9f7Ed196EFB4f9A260a45dEbcB3b1b6` |
 
 ## Docs
 
