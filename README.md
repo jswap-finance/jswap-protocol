@@ -24,6 +24,19 @@ https://app.jswap.finance/
 
 [Documentation](https://docs.jswap.finance/)
 
+## Verify the contract token which was created by `New Token`
+
+The contract source code please refer to `flat/CustomERC20.sol`.
+
+And the necessary fields for you to verify and publish your smart contract,
+
+- Contract Name：CustomERC20
+- Compiler Type：Solidity(SingleFile)
+- Compiler Version：v0.6.12+commit.27d51765
+- EVM Version：default
+- Optimization：Yes，200times
+- LicenseType：MIT License (MIT)
+
 ## License
 
 [MIT](LICENSE)
